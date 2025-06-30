@@ -8,8 +8,15 @@
 
 ---
 
-**Мой стек:**  
-Python • Django • DRF • PostgreSQL • Docker • GitHub Actions  
-REST API • Pytest • Nginx • Linux • JWT • Postman
+```python
+my_stack = {
+    "languages": ["Python"],
+    "frameworks": ["Django", "DRF", "Djoser"],
+    "databases": ["PostgreSQL", "SQLite"],
+    "devops": ["Docker", "Docker Compose", "GitHub Actions", "Nginx"],
+    "testing": ["Pytest", "Unit Testing"],
+    "tools": ["Postman", "JWT", "REST API", "Linux"]
+}
+```
 
 ---
