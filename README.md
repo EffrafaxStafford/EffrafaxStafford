@@ -10,8 +10,8 @@
 
 ```python
 my_stack = {
-    "languages": ["Python"],
-    "frameworks": ["Django", "DRF", "Djoser"],
+    "languages": ["Python", "C/C++"],
+    "frameworks": ["Django", "DRF", "Djoser", "arcade"],
     "databases": ["PostgreSQL", "SQLite"],
     "devops": ["Docker", "Docker Compose", "GitHub Actions", "Nginx"],
     "testing": ["Pytest", "Unit Testing"],
