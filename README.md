@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-abas.lampejev@yandex.ru-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:abas.lampejev@yandex.ru)
 
 **📍 База:** Москва  
-**💡 Специализация:** бэкенд, API и всё, что между ними  
+**💡 Специализация:** бэкенд 
 
 ---
 
