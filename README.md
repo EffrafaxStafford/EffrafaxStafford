@@ -10,12 +10,14 @@
 
 ```python
 my_stack = {
-    "languages": ["Python", "C/C++"],
-    "frameworks": ["Django", "DRF", "Djoser", "arcade"],
-    "databases": ["PostgreSQL", "SQLite"],
-    "devops": ["Docker", "Docker Compose", "GitHub Actions", "Nginx"],
-    "testing": ["Pytest", "Unit Testing"],
-    "tools": ["Postman", "JWT", "REST API", "Linux"]
+    "languages": ["Python"],
+    "backend": ["Django", "Django REST Framework", "FastAPI", "asyncio"],
+    "databases": ["PostgreSQL", "SQLite", "Redis"],
+    "orm_and_migrations": ["SQLAlchemy", "Django ORM", "Alembic"],
+    "api_and_auth": ["REST API", "JWT", "OAuth2"],
+    "devops": ["Docker", "Docker Compose", "Nginx", "GitHub Actions"],
+    "testing": ["Pytest", "Unit Testing", "Integration Testing"],
+    "tools": ["Git", "Postman", "Linux"]
 }
 ```
 
